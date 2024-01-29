@@ -4,7 +4,7 @@
 
 ## **資料集**
 
-![image](https://github.com/Jiahsiu/transaction_association/blob/main/截圖%202024-01-30%20上午1.57.11.png)
+![image](https://github.com/Jiahsiu/transaction_association/blob/main/imag/截圖%202024-01-30%20上午1.57.11.png)
 > 紀錄每筆交易的商品項目及購買時間
 
 ## **前處理**
